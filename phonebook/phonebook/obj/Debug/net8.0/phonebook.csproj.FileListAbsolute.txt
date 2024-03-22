@@ -1,0 +1,17 @@
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.AssemblyInfoInputs.cache
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.AssemblyInfo.cs
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.csproj.CoreCompileInputs.cache
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\bin\Debug\net8.0\phonebook.exe
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\bin\Debug\net8.0\phonebook.deps.json
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\bin\Debug\net8.0\phonebook.runtimeconfig.json
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\bin\Debug\net8.0\phonebook.dll
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\bin\Debug\net8.0\phonebook.pdb
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.dll
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\refint\phonebook.dll
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.pdb
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.genruntimeconfig.cache
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\ref\phonebook.dll
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.csproj.AssemblyReference.cache
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\bin\Debug\net8.0\Newtonsoft.Json.dll
+Y:\Daniel Sarti I Joao Crispim\phonebook\phonebook\obj\Debug\net8.0\phonebook.csproj.CopyComplete
